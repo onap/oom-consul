@@ -2,4 +2,3 @@
 #
 74c63402424076d77682649391d822ce4788f9f9                                   	saml/onap-gerrit-oom-consul-committers
 daebbf523be390041a1a9c0e340a6d833aae5043                                   	GitHub Replication
-ldap:cn=onap-gerrit-oom-consul-committers,ou=Groups,dc=freestandards,dc=org	ldap/onap-gerrit-oom-consul-committers
