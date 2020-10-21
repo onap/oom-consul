@@ -1,0 +1,8 @@
+distribution_type: "container"
+container_release_tag: "2.0.0"
+project: "oom/consul"
+log_dir: "oom-consul-docker-merge-master/1"
+ref: 59d9ada5a6fd7f0f01b9f9a2cc864eec9582b76a
+containers:
+  - name: "oom/consul"
+    version: "latest"
