@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d8249ce2_52ca3043",
+        "filename": "releases/2.0.0-container.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 2319
+      },
+      "writtenOn": "2020-10-26T16:18:03Z",
+      "side": 1,
+      "message": "this must be the job number of the merge we want: oom-consul-docker-merge-master/1",
+      "revId": "ca23b7838bfdba2208ea42c2df560a91bf269aa8",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "8e68d39b_13e74794",
+        "filename": "releases/2.0.0-container.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 2319
+      },
+      "writtenOn": "2020-10-26T16:18:03Z",
+      "side": 1,
+      "message": "this must be the ref viewed in job: 59d9ada5a6fd7f0f01b9f9a2cc864eec9582b76a",
+      "revId": "ca23b7838bfdba2208ea42c2df560a91bf269aa8",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
