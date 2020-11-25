@@ -5,4 +5,6 @@ RUN cd /consul \
     && chmod +x kubectl \
     && apk add --no-cache jq
 
+COPY ./docker-entrypoint.sh /usr/local/bin/docker-entrypoint.sh
+
 ENTRYPOINT /usr/local/bin/docker-entrypoint.sh
